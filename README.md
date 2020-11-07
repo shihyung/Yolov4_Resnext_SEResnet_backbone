@@ -4,8 +4,10 @@
 ***
 ## Backbone 替換
 Yolov4:  
-![images/1_yolo_by_resnet.png](images/1_yolo_by_resnet.png)
+![images/1_yolo_by_resnet.png](images/1_yolo_by_resnet.png)   
 
+SE-Resnet50:  
+![images/1_seresnet.png](images/1_seresnet.png)
 ***
 ## yaml 檔修改
 ##### 原始的 Yolov4_L yaml 檔案的 backbone
