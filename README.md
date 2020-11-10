@@ -188,7 +188,11 @@ Model Summary: 297 layers, 5.01116e+07 parameters, 5.01116e+07 gradients
 ***
 ## 測試結果
 ##### 因為coco 圖片集太多，為實驗方便，此處依舊僅取其車輛部分 names: ['motorcycle','car','bus','truck'], 測試結果如下:
-
+![images/3_line.png](images/3_line.png)
+![images/3_lr.png](images/3_lr.png)
+![images/3_metric.png](images/3_metric.png)
+![images/3_train.png](images/3_train.png)
+![images/3_val.png](images/3_val.png)
 ***
 ## 參考
 [Yolov4](https://github.com/WongKinYiu/PyTorch_YOLOv4)  
